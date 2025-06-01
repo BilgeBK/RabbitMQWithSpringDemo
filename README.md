@@ -19,15 +19,16 @@ If you want to run RabbitMQ locally, you can download and install it from the [o
 RabbitMQ need to Erlang, you can download and install it from the [official Erlang website](https://www.erlang.org/downloads.html).
 
 ### Step 3: Clone the Repository
-git clone https://github.com/BilgeBK/RabbitMQWithSpringDemo.git
 
-cd RabbitMQWithSpringDemo
+``` git clone https://github.com/BilgeBK/RabbitMQWithSpringDemo.git ```
+
+``` cd RabbitMQWithSpringDemo ```
 
 ### Step 4: Install Dependencies
 
 To install the project dependencies, run:
 
-mvn install
+```mvn install```
 
 ### Step 5: Run the Application
 you can run the RabbitMqWithSpringDemoApplication class directly from your IDE.
